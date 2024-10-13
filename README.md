@@ -1,4 +1,4 @@
-[한국어/EN]
+**[한국어/EN]**
 
 안녕하세영! 👋 저는 @6k2ldk, 이규언이에여. 6K2LDK는 제 콜사인이에요.
 
@@ -24,4 +24,4 @@ I'm interested at HAM and mamy social minority rights.
 I'm now a member of Jinbo Party, Amnesty Korea, Youth Rights Society NAEDA.. and more! 🚩
 
 my instagram is @me6k2ldk! Please follow 😢😢
-and I.. dont have anything to say more. Meet you on the air! 88!
+and I.. dont have anything to say more. Meet you on the air! 88!`
