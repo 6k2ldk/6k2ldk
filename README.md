@@ -1,5 +1,5 @@
 # 규어니의 자기소개✨️✨️ [한국어/EN]
-
+###### 한국어
 안녕하세영! 👋 저는 @6k2ldk, 이규언이에여. [6K2LDK](https://qrz.com/db/6k2ldk)는 제 콜사인이에요.
 
 제 대명사는 She/Her/They에요. 그리고 저는 트랜스여성 레즈비언으로 정체화하고 있어요! 저는 정말루 🏳️‍⚧️퀴어하답니다🏳️‍🌈
@@ -23,6 +23,7 @@
 
 ------------------------------------------
 
+###### EN
 Hi! 👋 I’m @6k2ldk, 이규언（Lee Gyueon, but just call me Dave). [6K2LDK](https://qrz.com/db/6k2ldk) is my callsign.
 
 My Pronouns are She/Her/They. 'N I identify myself as trans women lesbian! I'm soo much 🏳️‍⚧️QUEEER🏳️‍🌈
