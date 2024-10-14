@@ -1,6 +1,6 @@
 # 규어니의 자기소개✨️✨️
 ### [한국어](https://6k2ldk.github.io/6k2ldk/#%ED%95%9C%EA%B5%AD%EC%96%B4) / [Engilsh](https://6k2ldk.github.io/6k2ldk/#EN) / [연락처/Contacts](https://6k2ldk.github.io/6k2ldk/#%EC%97%B0%EB%9D%BD%EC%B2%98contacts)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ------------------------------
 ###### 한국어
