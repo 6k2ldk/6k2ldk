@@ -1,7 +1,5 @@
 <!DOCTYPE html><html lang="en-US"> <head> <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- You can set your favicon here --><!-- link rel="shortcut icon" type="image/x-icon" href="/6k2ldk/favicon.ico" -->
-<!-- end custom head snippets -->
 </head> <body> <div class="container-lg px-3 my-5 markdown-body"> 
 <h1 id="규어니의-자기소개️️-한국어en">규어니의 자기소개✨️✨️ [한국어/EN]</h1><hr /><h6 id="한국어">한국어</h6><p>안녕하세영! 👋 저는 @6k2ldk, 이규언이에여. <a href="https://qrz.com/db/6k2ldk">6K2LDK</a>는 제 콜사인이에요.</p>
 <p>제 대명사는 She/Her/They에요. 그리고 저는 트랜스여성 레즈비언으로 정체화하고 있어요! 저는 정말루 🏳️‍⚧️퀴어하답니다🏳️‍🌈저는 2012년 8월 30일에 태어났고, 경기도 남앙주시에 살고 있어요.</p>
