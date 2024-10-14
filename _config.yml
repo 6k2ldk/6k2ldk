@@ -1,6 +1,6 @@
 title: 🏳️‍⚧️🏳️‍🌈🚩🇵🇸🎗✨️👩‍❤️‍👩
 description: 이것저것 하는 퀴어공주의 사이트
 url: 6k2ldk.github.io
-theme: jekyll-theme-minimal
+REMOTE-THEME: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
