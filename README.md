@@ -1,4 +1,4 @@
-# 🏳️‍⚧️🏳️‍🌈🚩🇵🇸🎗✨️👩‍❤️‍👩
+# 규어니의 자기소개✨️✨️
 ### [한국어](https://6k2ldk.github.io/6k2ldk/#%ED%95%9C%EA%B5%AD%EC%96%B4) / [Engilsh](https://6k2ldk.github.io/6k2ldk/#EN) / [연락처/Contacts](https://6k2ldk.github.io/6k2ldk/#%EC%97%B0%EB%9D%BD%EC%B2%98contacts)
 
 ------------------------------
