@@ -1,4 +1,3 @@
-![poster](길벗체.png)
 # 규어니의 자기소개✨️✨️ [한국어/EN]
 ------------------------------
 ###### 한국어
@@ -37,3 +36,6 @@ I'm now a member of [Jinbo Party](https://jinboparty.com), [Amnesty Korea](https
 
 my instagram is [@me6k2ldk](https"//instagram.com/me6k2ldk)! Please follow 😢😢
 and I.. dont have anything to say more. Meet you on the air! 88!`
+
+--------------------
+![poster](길벗체.png)
