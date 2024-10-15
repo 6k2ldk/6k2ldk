@@ -1,8 +1,5 @@
 title: 🏳️‍⚧️🏳️‍🌈🚩🇵🇸🎗✨️👩‍❤️‍👩
 description: 이것저것 하는 퀴어공주의 사이트
 url: 6k2ldk.github.io
-remote_theme: pages-themes/dinky@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 list_title: "규어니의 자기소개✨️✨️"
 logo: assets/images
