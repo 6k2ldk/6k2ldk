@@ -53,14 +53,11 @@ and I.. dont have anything to say more. Meet you on the air! 88!`
 > 인스타그램/Instagram: [@me6k2ldk](https://instagram.com/me6k2ldk)
 
 ---------------
-<head>
-  <link rel="icon" href="https://사이트주소/favicon.ico>
-</head>
 <div> 
   <div style="float: right">
     <img src="프로필사진.jpg" width="100" height="100">
   </div>
-  <div>
+<div>
     <b>이규언 / Lee Gyueon(Dave)</b><br>Made with GitHub Pages<br>Mobile: +82 10-8218-5635<br>E-Mail: me@6k2ldk.xyz
   </div>
 </div>
