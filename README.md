@@ -1,5 +1,5 @@
 # 규어니의 자기소개✨️✨️
-### [한국어](https://6k2ldk.github.io/6k2ldk/#%ED%95%9C%EA%B5%AD%EC%96%B4) / [Engilsh](https://6k2ldk.github.io/6k2ldk/#EN) / [연락처(Contacts)](https://6k2ldk.github.io/6k2ldk/#%EC%97%B0%EB%9D%BD%EC%B2%98contacts)
+### [한국어](https://6k2ldk.github.io/6k2ldk/#%ED%95%9C%EA%B5%AD%EC%96%B4) / [Engilsh](https://6k2ldk.github.io/6k2ldk/#en) / [연락처(Contacts)](https://6k2ldk.github.io/6k2ldk/#%EC%97%B0%EB%9D%BD%EC%B2%98contacts)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/6k2ldk) [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](http://qr.kakao.com/talk/C7SU4ejg14dgMoxu.Sl4pvKHa_g-) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/6k2ldk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/me6k2ldk) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/me6K2LDK)
 
 ------------------------------
