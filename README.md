@@ -50,12 +50,9 @@ and I.. dont have anything to say more. Meet you on the air! 88!`
 > 전화/Call: [+82-10-8218-5635](tel:+821082185635)
 >
 > 이메일/E-Mail: [me@6k2ldk.xyz](mailto:me@6k2ldk.xyz)
->
-> 텔레그램/Telegram: [@me6K2LDK](https://t.me/me6K2LDK)
->
-> 카카오톡/KaKaotalk: 전화번호로 친구추가/Use call number to messege
->
-> 인스타그램/Instagram: [@me6k2ldk](https://instagram.com/me6k2ldk)
+
+이외 연락처는 맨 상단 버튼 눌러서!<br>
+Other contacts at the top button!
 
 ---------------
 <div> 
