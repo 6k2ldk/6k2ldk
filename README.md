@@ -26,6 +26,8 @@
 > [청소년인권행동 아수나로](https://asunaro.or.kr)
 > 
 > [행동하는성소수자인권연대](https://lgbtpride.or.kr)
+>
+> [국제엠네스티 한국지부](https://amnesty.or.kr)
 
 제 인스타 팔로우좀 해주세요😢😢 [@me6k2ldk](https://instagram.com/me6k2ldk)
 어.. 더 할말이 없네여. 현장에서 만납시다! 투쟁! 88!
