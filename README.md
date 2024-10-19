@@ -57,7 +57,7 @@ Other contacts at the top button!
 ---------------
 <div> 
   <div style="float: right">
-    <img src="프로필사진.jpg" width="100" height="100">
+    <img src="assets/images/프로필사진.jpg" width="100" height="100">
   </div>
 <div>
     <b>이규언 / Lee Gyueon(Dave)</b><br>Made with GitHub Pages<br>Mobile: +82 10-8218-5635<br>E-Mail: me@6k2ldk.xyz
