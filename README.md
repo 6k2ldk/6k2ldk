@@ -11,7 +11,7 @@
 ##### 한국어
 안녕하세영! 👋 저는 @6k2ldk, 이규언이에여. [6K2LDK](https://qrz.com/db/6k2ldk)는 제 콜사인이에요.
 
-제 대명사는 She/Her/They에요. 그리고 저는 트랜스여성 레즈비언으로 정체화하고 있어요! 저는 정말루 🏳️‍⚧️퀴어하답니다🏳️‍🌈
+제 대명사는 She/Her/They에요. 그리고 저는 트랜스여성 레즈비언으로 정체화하고 있어요! 저는 정말루 🏳️‍⚧️퀴어하답니다🏳️‍🌈<br>
 저는 2012년 8월 30일에 태어났고, 경기도 남앙주시에 살고 있어요.
 
 저는 아마추어 무선과 많은 사회적 소수자 인권 투쟁에 관심을 가지고 있어요.
@@ -37,7 +37,7 @@
 ##### EN
 Hi! 👋 I’m @6k2ldk, 이규언（Lee Gyueon, but just call me Dave). [6K2LDK](https://qrz.com/db/6k2ldk) is my callsign.
 
-My Pronouns are She/Her/They. 'N I identify myself as trans women lesbian! I'm soo much 🏳️‍⚧️QUEEER🏳️‍🌈
+My Pronouns are She/Her/They. 'N I identify myself as trans women lesbian! I'm soo much 🏳️‍⚧️QUEEER🏳️‍🌈<br>
 I was born in 30/08/2012 'N living at Gyeonggi-do, Korea.
 
 I'm interested at HAM and mamy social minority rights.
@@ -49,8 +49,7 @@ and I.. dont have anything to say more. Meet you on the air! 88!`
 
 --------------------
 ##### 연락처/Contacts
-> 전화/Call: [+82-10-8218-5635](tel:+821082185635)
->
+> 전화/Call: [+82-10-8218-5635](tel:+821082185635)<br>
 > 이메일/E-Mail: [me@6k2ldk.xyz](mailto:me@6k2ldk.xyz)
 
 이외 연락처는 맨 상단 버튼 눌러서!<br>
