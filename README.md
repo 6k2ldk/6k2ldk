@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>규어니의 자기소개✨️ | 🏳️‍⚧️🏳️‍🌈🍉🎗🌹☔️✨️👩‍❤️‍👩l </title>
 <link rel="stylesheet" href="style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,8 +19,6 @@
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="규어니의 자기소개✨️" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"이것저것 하는 퀴어공주의 사이트","headline":"규어니의 자기소개✨️","name":"🏳️‍⚧️🏳️‍🌈🍉🎗🌹☔️✨️👩‍❤️‍👩","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"6k2ldk.github.io/assets/images"}},"url":"6k2ldk.github.io/"}</script>
 </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
