@@ -32,6 +32,16 @@
 <a href="http://qr.kakao.com/talk/C7SU4ejg14dgMoxu.Sl4pvKHa_g-"><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&amp;logo=kakaotalk&amp;logoColor=000000" alt="KakaoTalk" /></a>
 <a href="https://discord.com/users/835870243804676158"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a></p>
 
+<div>
+  <div style="float:right; display:table-cell; vertical-align:middle">
+    <img style="width=160; height=160" src= "assets/images/대퀴.jpg" />
+  </div>
+  <div>
+    <h3>이규언 / Gyueon Dave Lee</h3>
+    <h4 style="font-weight:500">퀴어 트젠 레즈 쓰까페미 종북좌파 </h4>
+    <p>생일 = 30. 08. 2012 <br /> 지역 = 경기도 남양주시 <br /> 직업 = (자칭) 활동가, 개발자</p>
+  </div>
+</div>
 <hr />
 <h5 id="한국어">한국어</h5>
 <p>안녕하세영! 👋 저는 @6k2ldk, 이규언이에여. <a href="https://qrz.com/db/6k2ldk">6K2LDK</a>는 제 콜사인이에요.</p>
