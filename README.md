@@ -17,24 +17,27 @@
 <meta property="og:url" content="6k2ldk.github.io/" />
 <meta property="og:site_name" content="🏳️‍⚧️🏳️‍🌈🍉🎗🌹☔️✨️👩‍❤️‍👩" />
 <meta property="og:type" content="website" />
+<meta property="og:image" content="/assets/images/프로필사진.png" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="규어니의 자기소개✨️" />
+<link rel="icon" href="favicon.ico"
 </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-<h1><a href="6k2ldk.xyz/">🏳️‍⚧️🏳️‍🌈🍉🎗🌹☔️✨️👩‍❤️‍👩</a></h1>
+<h1><a href="https://6k2ldk.xyz/">🏳️‍⚧️🏳️‍🌈🍉🎗🌹☔️✨️👩‍❤️‍👩</a></h1>
 <h1 id="규어니의-자기소개️">규어니의 자기소개✨️</h1>
 <h3 id="한국어--engilsh--연락처contacts--혐오-아카이브"><a href="https://6k2ldk.github.io/6k2ldk/#%ED%95%9C%EA%B5%AD%EC%96%B4">한국어</a> / <a href="https://6k2ldk.github.io/6k2ldk/#en">Engilsh</a> / <a href="https://6k2ldk.github.io/6k2ldk/#%EC%97%B0%EB%9D%BD%EC%B2%98contacts">연락처(Contacts)</a> / <a href="https://archive.6k2ldk.xyz">혐오 아카이브</a></h3>
 <p><a href="https://github.com/6k2ldk"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages" /></a> <a href="https://www.facebook.com/6k2ldk"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" alt="Facebook" /></a> <a href="https://instagram.com/me6k2ldk"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram" /></a>
 <a href="https://threads.net/me6k2ldk"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&amp;logo=Threads&amp;logoColor=white" alt="Threads" /></a> <br />
-<a href="https://x.com/me6k2ldk"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="X" /></a> 
+<a href="https://x.com/me6k2ldk"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="X" /></a>
+<a href="https://bsky.app/profile/6k2ldk.xyz"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="X" /></a>
 <a href="https://t.me/me6K2LDK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
 <a href="http://qr.kakao.com/talk/C7SU4ejg14dgMoxu.Sl4pvKHa_g-"><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&amp;logo=kakaotalk&amp;logoColor=000000" alt="KakaoTalk" /></a>
 <a href="https://discord.com/users/835870243804676158"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a></p>
-
+<hr />
 <div>
   <div style="float:right; display:table-cell; vertical-align:middle">
-    <img style="width=160; height=160" src= "assets/images/대퀴.jpg" />
+    <img style="width:170px; height:170px; border-radius:50%" src= "assets/images/대퀴.jpg" />
   </div>
   <div>
     <h3>이규언 / Gyueon Dave Lee</h3>
@@ -53,9 +56,13 @@
 
 <p>저는 아마추어 무선과 많은 사회적 소수자 인권 투쟁에 관심을 가지고 있어요.</p>
 
-<p>저는 지금 아래의 단체에서 활동 중이에요! 🚩</p>
+<p>저는 지금 아래의 단위에서 활동 중이에요! 🚩</p>
 <blockquote>
   <p><a href="https://jinboparty.com">경기청년진보당 청소년위원회</a></p>
+
+  <p><a href="https://www.laborparty.kr">노동당 성소수자위원회</a></p>
+
+  <p><a href="https://kgreens.org">녹색당 경기도당</a></p>
 
   <p><a href="https://crsnaeda.kr">청소년인권모임 내다</a></p>
 
@@ -66,6 +73,12 @@
   <p><a href="https://lgbtpride.or.kr">행동하는성소수자인권연대</a></p>
 
   <p><a href="https://amnesty.or.kr">국제엠네스티 한국지부</a></p>
+
+  <p><a href="https://archive.6k2ldk.xyz">혐오아카이브</a></p>
+
+  <p>자녀보호앱 폐지연대</p>
+
+  <p><a href="https://x.com/animalmoim/">동물교회</a></p>
 </blockquote>
 
 <p>제 인스타 팔로우좀 해주세요😢😢 <a href="https://instagram.com/me6k2ldk">@me6k2ldk</a>
@@ -74,7 +87,7 @@
 <hr />
 
 <h5 id="en">EN</h5>
-<p>Hi! 👋 I’m @6k2ldk, 이규언（Lee Gyueon, but just call me Dave). <a href="https://qrz.com/db/6k2ldk">6K2LDK</a> is my callsign.</p>
+<p>Hi! 👋 I’m @6k2ldk, 이규언（Gyueon Dave Lee). <a href="https://qrz.com/db/6k2ldk">6K2LDK</a> is my callsign.</p>
 
 <p>My Pronouns are She/Her/They. ‘N I identify myself as trans women lesbian! I’m soo much 🏳️‍⚧️QUEEER🏳️‍🌈<br />
 I was born in 30/08/2012 ‘N living at Gyeonggi-do, Korea.</p>
@@ -97,14 +110,5 @@ and I.. dont have anything to say more. Meet you on the air! 88!`</p>
 Other contacts at the top button!</p>
 
 <hr />
-<div> 
-  <div style="float: right">
-    <img src="assets/images/프로필사진.jpg" width="100" height="100" />
-  </div>
-<div>
-    <b>이규언 / Lee Gyueon(Dave)</b><br />Made with GitHub Pages<br />Mobile: +82 10-8218-5635<br />E-Mail: me@6k2ldk.xyz
-  </div>
-</div>
-
   </body>
 </html>
