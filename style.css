@@ -1,14 +1,14 @@
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 * {
-  font-family: "Gothic A1" !important;
+  font-family: "Noto Sans KR", "Noto Color Emoji" !important;
 }
 html{
-  font-family: "Gothic A1", serif;
+  font-family: "Noto Sans KR", "Noto Color Emoji"
   -ms-text-size-adjust:100%;
   -webkit-text-size-adjust:100%
 }
 body{
-    font-family: "Gothic A1", serif;
+    font-family: "Noto Sans KR", "Noto Color Emoji"
     margin:0
 }
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{
